@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Guardian Science Reader</string>
+    <string name="no_headline_info">No headline available</string>
+    <string name="no_author_info">No author information available</string>
+    <string name="no_publish_date">No publication date available</string>
+    <string name="read_article">Read full article</string>
+    <string name="no_thumbnail">No image available</string>
+    <string name="list_header">Recent Stories</string>
+    <string name="error_loading_stories">An error has occurred loading current stories.  Please try again later.</string>
+    <string name="no_internet">No network connection.  Please check your wireless signal and try again.</string>
+    <string name="no_article_url">Unable to read URL for this article</string>
+    <string name="refresh">Refresh</string>
+</resources>
